@@ -1,3 +1,3 @@
 # Git e GitHub
 
-Nosso Curso de Gir e GitHub
+Nosso Curso de Git e GitHub
